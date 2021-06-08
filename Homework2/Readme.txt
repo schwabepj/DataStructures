@@ -1,0 +1,1 @@
+g++ -c CircleList.cppg++ -c LinkedQueue.cppg++ -o testLQ CircleList.cpp LinkedQueue.cpp
